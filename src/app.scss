@@ -1,0 +1,25 @@
+$title-color : #3232c4;
+$base-font : Arial;
+$main-margin : 50px;
+$small-margin : $main-margin / 2;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: $base-font;
+}
+
+main {
+    margin: $main-margin;
+}
+
+h2,
+h3 {
+    color: $title-color;
+    margin: $small-margin 0;
+}
+
+p {
+    margin: $small-margin;
+}

@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+main {
+  margin: 50px;
+}
+
+h2,
+h3 {
+  color: #3232c4;
+  margin: 25px 0;
+}
+
+p {
+  margin: 25px;
+}
+
